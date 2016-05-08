@@ -1,0 +1,28 @@
+name: whiteorchid
+favicon: null
+layout_spectrum: 0.18967573274858296
+typography_spectrum: 0.8755876796785742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7565900126937777
+  lightness: 0.31586570874787867
+  saturation: 0.10867225541733205
+  rhythmicContrast: 0.18770568328909576
+purpose: []
