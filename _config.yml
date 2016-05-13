@@ -1,28 +1,40 @@
-name: whiteorchid
 favicon: null
-layout_spectrum: 0.18967573274858296
-typography_spectrum: 0.8755876796785742
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: whiteorchid
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.7565900126937777
-  lightness: 0.31586570874787867
-  saturation: 0.10867225541733205
-  rhythmicContrast: 0.18770568328909576
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.311828
+  brandStrength: 1
+  lightness: 0.5483871
+  brandColors:
+    - '#040404'
+    - '#B1CBDC'
+    - '#2DA2C6'
+    - '#F8A468'
+    - '#B94E45'
+  rhythmicContrast: 0.1877057
+typography_spectrum: 0.8755876796785742
+layout_spectrum: 0.189675732748583
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
